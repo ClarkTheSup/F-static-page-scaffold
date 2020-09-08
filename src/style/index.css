@@ -58,6 +58,11 @@ ul {
   margin-left: auto;
 }
 
+.triangle {
+  width: 10px;
+  height: 10px;
+}
+
 .main {
   width: 981px;
   margin: 0px auto;
