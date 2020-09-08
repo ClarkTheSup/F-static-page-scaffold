@@ -31,7 +31,7 @@ ul {
 .header-content {
   display: flex;
   align-items: center;
-  width: 800px;
+  width: 981px;
   height: 100%;
   margin: 0px auto;
 }
@@ -58,6 +58,16 @@ ul {
   margin-left: auto;
 }
 
-.content {
+.main {
   width: 981px;
+  margin: 0px auto;
+}
+
+.section {
+  display: flex;
+}
+
+.section1,
+.section2 {
+  width: 50%;
 }
